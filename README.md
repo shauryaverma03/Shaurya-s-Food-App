@@ -20,8 +20,7 @@ Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-ri
 
 ## 📸 Screenshots
 
-![image1](<img width="1440" alt="Screenshot 2025-06-02 at 7 08 12 PM" src="https://github.com/user-attachments/assets/64082828-0de6-486a-9db4-6f61a8030092" />
-)
+![image1](<img width="1440" alt="Screenshot 2025-06-02 at 7 08 12 PM" src="https://github.com/user-attachments/assets/64082828-0de6-486a-9db4-6f61a8030092" />)
 
 
 ---
