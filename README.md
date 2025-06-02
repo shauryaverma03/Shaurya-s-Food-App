@@ -1,6 +1,12 @@
-<img width="1440" alt="Screenshot 2025-06-02 at 7 08 12 PM" src="https://github.com/user-attachments/assets/9163d2e6-8d93-4cb8-9ab3-95f117d20005" /># 🍔 Shaurya's Food App
+# 🍔 Shaurya's Food App
 
 Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-rich food ordering platform built with **Next.js**, **React**, and **Tailwind CSS**. Explore, order, and track your favorite dishes with a modern UI and seamless user experience!
+
+---
+
+## 📸 Screenshots
+
+![image1](image1.jpg)
 
 ---
 
@@ -15,13 +21,6 @@ Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-ri
 - **Intuitive Forms:** Robust form validation using [react-hook-form](https://react-hook-form.com/) and [zod](https://zod.dev/).
 - **Data Visualization:** Analyze your orders with beautiful charts ([Recharts](https://recharts.org/)).
 - **Carousel & More:** Slick food carousels, toast notifications, tooltips, and more interactive components.
-
----
-
-## 📸 Screenshots
-
-![image1](<img width="1440" alt="Screenshot 2025-06-02 at 7 08 12 PM" src="https://github.com/user-attachments/assets/64082828-0de6-486a-9db4-6f61a8030092" />)
-
 
 ---
 
