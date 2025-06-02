@@ -4,8 +4,6 @@ Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-ri
 
 ---
 
-![Banner](https://raw.githubusercontent.com/shauryaverma03/Shaurya-s-Food-App/main/public/banner.png)
-
 ## 🚀 Features
 
 - **Modern UI:** Built using [Radix UI](https://www.radix-ui.com/) primitives and [Tailwind CSS](https://tailwindcss.com/) for a beautiful, accessible, and responsive interface.
@@ -22,7 +20,7 @@ Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-ri
 
 ## 📸 Screenshots
 
-> _Add your app screenshots here!_
+![image1](image1)
 
 ---
 
