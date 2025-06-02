@@ -1,4 +1,4 @@
-# 🍔 Shaurya's Food App
+<img width="1440" alt="Screenshot 2025-06-02 at 7 08 12 PM" src="https://github.com/user-attachments/assets/9163d2e6-8d93-4cb8-9ab3-95f117d20005" /># 🍔 Shaurya's Food App
 
 Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-rich food ordering platform built with **Next.js**, **React**, and **Tailwind CSS**. Explore, order, and track your favorite dishes with a modern UI and seamless user experience!
 
@@ -20,7 +20,9 @@ Welcome to **Shaurya's Food App** – an elegant, lightning-fast, and feature-ri
 
 ## 📸 Screenshots
 
-![image1](image1)
+![image1](<img width="1440" alt="Screenshot 2025-06-02 at 7 08 12 PM" src="https://github.com/user-attachments/assets/64082828-0de6-486a-9db4-6f61a8030092" />
+)
+
 
 ---
 
@@ -122,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📫 Contact
 
 **Shaurya Verma**  
-[GitHub](https://github.com/shauryaverma03) | [LinkedIn](https://linkedin.com/in/shauryaverma03)
+[GitHub](https://github.com/shauryaverma03) | [LinkedIn](https://linkedin.com/in/shaurya47)
 
 ---
 
